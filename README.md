@@ -1,4 +1,4 @@
-#Daniela Araújo 🇧🇷
+# Daniela Araújo 🇧🇷
 
 Graduada em Ciências Contábeis e pós-graduada em Auditoria/Controladoria, atualmente estudante em cibersegurança pela faculdade Ampli. Gosto muito da tecnologia. Meu trabalho no momento é como tester de Software, com aplicação em metodologias ágeis.
 
